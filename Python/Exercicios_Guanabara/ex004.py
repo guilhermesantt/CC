@@ -1,6 +1,0 @@
-algo = input()
-print(type(algo))
-print(algo.isalnum())
-print(algo.isalpha())
-print(algo.isascii())
-print(algo.islower())
